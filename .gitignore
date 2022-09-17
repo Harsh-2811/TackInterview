@@ -1,2 +1,2 @@
-/assignment/celerybeat-schedule
-/assignment/debug.log
+celerybeat-schedule
+debug.log
